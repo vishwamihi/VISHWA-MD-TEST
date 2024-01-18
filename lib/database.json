@@ -1,0 +1,80 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "94722881420@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94702481115@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94763727898@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94751150234@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94716884254@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94740787132@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94768607653@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94743265693@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94761138003@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94703639517@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94713392142@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363199497988920@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "94702481115@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363074490539926@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "94703639517@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363218691679732@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "94713392142@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    }
+  }
+}
